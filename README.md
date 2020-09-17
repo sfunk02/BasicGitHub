@@ -4,7 +4,7 @@ regular text
 
 :rocket:
 
-##Picture
+## Pictures
 
 Markdown:
 
