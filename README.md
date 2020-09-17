@@ -8,4 +8,4 @@ regular text
 
 Markdown:
 
-![Retro Wallpaper](images/RetroWallpaper.jpg)
+![Retro Wallpaper](Images/RetroWallpaper.jpg)
