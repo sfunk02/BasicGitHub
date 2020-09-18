@@ -12,4 +12,4 @@ Markdown:
 
 HTML:
 
-<img src"Images/RetroWallpaper" alt="Retro Wallpaper" width="500" height="300">
+<img src="Images/RetroWallpaper.jpg" alt="Retro Wallpaper" width="500" height="300">
